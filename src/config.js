@@ -45,7 +45,7 @@ const extraMetadata = {
 // ** REQUIRED **
 const AUTH = "c40f87f0-6078-49de-b06b-670c9de6ae5e";
 const LIMIT = 2; // Your API key rate limit
-const CONTRACT_NAME = 'The Rebel Kangaroos';
+const CONTRACT_NAME = 'The_Rebel_Kangaroos';
 const CONTRACT_SYMBOL = 'TRK';
 const CONTRACT_TYPE = 'erc721';
 const MINT_TO_ADDRESS = '0x2d33260A2926d4E1aa6F330959bea9B0a4c812dd';
