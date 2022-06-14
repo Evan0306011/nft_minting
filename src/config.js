@@ -43,7 +43,7 @@ const extraMetadata = {
 
 // NFTPort Info
 // ** REQUIRED **
-const AUTH = "47c7fd6e-1f9b-4efd-9ebe-4fc20dc2ab56";
+const AUTH = "1a2ed11b-c702-4e2f-8163-b805926e9115";
 const LIMIT = 2; // Your API key rate limit
 const CONTRACT_NAME = 'The_Rebel_Kangaroos';
 const CONTRACT_SYMBOL = 'TRK';
